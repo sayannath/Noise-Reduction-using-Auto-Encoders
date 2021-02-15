@@ -2,7 +2,7 @@
 
 > Noise Reduction of Images using Auto Encoders
 
-### Dataset
+## Dataset
 ```
 MNIST Dataset
 ```
@@ -13,6 +13,12 @@ MNIST Dataset
 
 ## Results
 <img src = "assets/outcome.png">
+
+## Models
+```
+Keras File - denoise_model.h5
+TF Lite File - denoise_model.tflite
+```
 
 ## Pull Request
 
